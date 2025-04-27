@@ -106,14 +106,6 @@ plt.show()
    python lstm_netflix_prediction.py
    ```
 
----
-
-## 🔥 Author
-
-- **Name**: *Your Name Here*
-- **Contact**: *Your Email / GitHub Profile*
-
----
 
 # 🌟 Future Improvements
 - Add **Dropout** layers for regularization.
