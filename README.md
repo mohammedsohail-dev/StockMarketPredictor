@@ -8,6 +8,15 @@ After executing it the algorithm gives out a prediction of one day ahead into th
 
 This project uses an **LSTM (Long Short-Term Memory)** model built with **Keras** and **TensorFlow** to predict Netflix stock prices based on historical data.
 
+![Python](https://img.shields.io/badge/Python-3.8-%233B4E68?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10-%23FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-2.10-%23D00000?logo=keras&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626?logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1.21-%23013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1.3-%23150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23C23733?logo=matplotlib&logoColor=white)
+
+
 ---
 
 ## 📄 Dataset
